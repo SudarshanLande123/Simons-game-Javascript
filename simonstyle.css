@@ -1,0 +1,48 @@
+body{
+    text-align: center;
+}
+
+.box       
+{
+
+    display: flex;
+    justify-content: center;
+
+}
+.sub_box{
+    height: 100px;
+    width: 100px;
+    border:2px solid black;
+    border-radius: 20px;
+    margin: 20px;
+}
+.red{
+    background-color: red;
+}
+.blue{
+    background-color: blue;
+}
+.green
+{
+    background-color: green;
+}
+.yellow{
+    background-color: yellow;
+}
+
+/* .Flash{
+    background-color: white;
+}
+.userFlash{
+    background-color: lime;
+}
+*/
+
+.Flash{
+    background-color: white;
+}
+
+
+.userFlash{
+    background-color: darkmagenta;
+}
