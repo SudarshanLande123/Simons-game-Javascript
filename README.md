@@ -19,4 +19,4 @@ Play the game here: [https://sudarshanlande123.github.io/reflexes/](https://suda
 ## How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/SudarshanLande123/reflexes.git
+   git clone https://github.com/SudarshanLande123/Simons-game-Javascript.git
