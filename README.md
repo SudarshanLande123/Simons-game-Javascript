@@ -14,8 +14,7 @@ The Simon Game is a classic memory challenge where players replicate a sequence 
 - No sound effects (future enhancement planned)
 
 ## Live Demo
-Play the game here: [https://sudarshanlande123.github.io/reflexes/](https://sudarshanlande123.github.io/reflexes/)
-
+Play the game here: https://sudarshanlande123.github.io/Simons-game-Javascript/
 ## How to Run Locally
 1. Clone the repository:
    ```bash
